@@ -1,5 +1,6 @@
 """
 geometry analysis module
+Author: Francia Riesco
 """
 import numpy
 import os
